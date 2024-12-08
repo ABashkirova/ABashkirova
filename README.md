@@ -36,7 +36,7 @@ I enjoy working with **Swift**, **SwiftUI**, process automation, and analytics.
 - **macOS development** to build intuitive desktop apps.
 
 ## 📫 **Contact Me**  
-- **Email**: s.bshkrva@gmail.com 
+- **Email**: bashkirova@sashenka.xyz
 - **LinkedIn**: [@bshkrva](www.linkedin.com/in/bshkrva)
 - **Telegram**: [@bashkirova](https://t.me/bashkirova)
 
